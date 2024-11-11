@@ -1,0 +1,5 @@
+/home/ironiq/Desktop/SpringBootProjects/SpringBoot-Starter/src/main/java/com/example/employeecrud/EmployeeCrudApplication.java
+/home/ironiq/Desktop/SpringBootProjects/SpringBoot-Starter/src/main/java/com/example/employeecrud/controller/EmployeeController.java
+/home/ironiq/Desktop/SpringBootProjects/SpringBoot-Starter/src/main/java/com/example/employeecrud/model/Employee.java
+/home/ironiq/Desktop/SpringBootProjects/SpringBoot-Starter/src/main/java/com/example/employeecrud/respository/EmployeeRepository.java
+/home/ironiq/Desktop/SpringBootProjects/SpringBoot-Starter/src/main/java/com/example/employeecrud/service/EmployeeService.java
